@@ -21,7 +21,7 @@ A simple dynamic sliding window system that capture the player comment data from
 ## Built with
 
 - Python
-- Bge-m3 model  <a href="https://huggingface.co/BAAI/bge-m3/">portfolio</a>
+- <a href="https://huggingface.co/BAAI/bge-m3/">Bge-m3 Model</a>
 
 
 
