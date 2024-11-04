@@ -31,7 +31,7 @@ A simple dynamic sliding window system that capture the player comment data from
 
   - Description: This dictionary store all the data including player id, scene id, messages, message time and the text embeddings. 
 
-  - ![menu](README/dictionary.png)
+  - ![menu](README/Dictionary.png)
 
     
 
