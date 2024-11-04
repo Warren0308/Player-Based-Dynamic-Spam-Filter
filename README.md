@@ -10,7 +10,7 @@ This is a automation aim to learn:
 
 - Introduction 3 different dynamic duration 
 - Different advanced and reduce time complexity data structure 
-- bge3 model: text embeddings
+- bge-m3 model: text embeddings
 
 
 
@@ -27,6 +27,13 @@ A simple dynamic sliding window system that capture the player comment data from
 
 ## Screenshot
 
+- **Dictionary Structure**
+
+  - Description: This dictionary store all the data including player id, scene id, messages, message time and the text embeddings. 
+
+  - ![menu](README/dictionary.png)
+
+    
 
 
 ## Author
