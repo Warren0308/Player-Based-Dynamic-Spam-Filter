@@ -31,9 +31,14 @@ A simple dynamic sliding window system that capture the player comment data from
 
   - Description: This dictionary store all the data including player id, scene id, messages, message time and the text embeddings. 
 
-  - ![menu](README/Dictionary.png)
+  - ![dict](README/Dictionary.png)
 
     
+- **Output Structure**
+
+  - Description: This is a Json output that showing the number of similairity messages within specific duration. 
+
+  - ![output](README/Output.png)
 
 
 ## Author
