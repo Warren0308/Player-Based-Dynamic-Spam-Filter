@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b8bfc1-25f5-4458-958f-1ba78ba19aba" name="Changes" comment="Main Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e4b8bfc1-25f5-4458-958f-1ba78ba19aba" name="Changes" comment="Change the Faiss Method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730186896079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Change the Faiss Method">
+      <option name="closed" value="true" />
+      <created>1733301676850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733301676851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Main Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main Project" />
+    <MESSAGE value="Change the Faiss Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the Faiss Method" />
   </component>
 </project>

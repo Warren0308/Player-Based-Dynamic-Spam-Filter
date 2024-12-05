@@ -218,7 +218,7 @@ class InferenceService(object):
         # 新文本就直接输出新的结果
         if new:
             index_dict.add(vector)
-            personal_data["index"][vector.shape[1]] = index_dict
+            personal_data["index"] = index_dict
             personal_data[faiss_idx] = {}
             # 把场景内设定的时段放入dict中(并根据设定时段输出结果）
             for duration, threshold in scene_data.items():
